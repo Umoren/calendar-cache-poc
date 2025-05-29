@@ -81,9 +81,9 @@ export default function(req, res) {
 ```http
 POST /api/webhook/calendar
 Headers:
-  x-goog-channel-id: "8396384e-e06b-4126-8408-9ea6d2dd0e93"
-  x-goog-resource-state: "exists"  // Something changed
-  x-goog-resource-id: "mva7_cntBfopzRg_peICGT9xBsU"
+  x-goog-channel-id: ""
+  x-goog-resource-state: "exists"
+  x-goog-resource-id: ""
 ```
 
 ## **🛠️ Technical Architecture**
