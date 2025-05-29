@@ -1,4 +1,4 @@
-# **Google Calendar Webhook System - Complete Explanation**
+# **Google Calendar Webhook System**
 
 You just built a **real-time Google Calendar notification system**! Here's exactly what we created and how it all works together:
 
